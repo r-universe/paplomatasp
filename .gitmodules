@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LDLcalc"]
+	path = LDLcalc
+	url = https://github.com/paplomatasp/ldlcalc
+	shallow = true
+	registered = true
